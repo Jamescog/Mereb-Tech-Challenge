@@ -1,3 +1,4 @@
 venv/
 internal_test.py
 .env
+/__pycache__/
