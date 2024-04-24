@@ -2,3 +2,5 @@ venv/
 internal_test.py
 .env
 /__pycache__/
+*.pyc
+*.conf
