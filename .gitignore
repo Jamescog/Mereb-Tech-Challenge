@@ -4,3 +4,4 @@ internal_test.py
 /__pycache__/
 *.pyc
 *.conf
+*.service
