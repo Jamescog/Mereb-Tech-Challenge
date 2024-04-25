@@ -38,7 +38,7 @@ app.add_middleware(
 app.include_router(persons_router)
 
 
-@app.get("/raise_500")
+@app.get("/raise-500")
 def raise_500():
      """
      Dummy route that raises a 500 error to test 500 page.
